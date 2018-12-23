@@ -27,6 +27,10 @@ FIDELITY CONTRAFUND
 
 http://news.morningstar.com/fund-category-returns/
 https://www.daveramsey.com/blog/how-to-invest-in-mutual-funds
+Growth and income:
+Growth:
+Aggressive growth:
+International:
 
     Growth and income: These funds create a stable foundation for your portfolio. Brant describes them as big, boring American companies that have been around for a long time and offer goods and services people use regardless of the economy. With the growth and income, be sure to look for funds with a history of stable growth that also pay dividends. You might find these listed under the large-cap or large value fund category. They may also be called blue chip, dividend income or equity income funds.
 
