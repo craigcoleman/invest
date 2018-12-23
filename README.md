@@ -27,7 +27,8 @@ FIDELITY CONTRAFUND
 
 http://news.morningstar.com/fund-category-returns/
 https://www.daveramsey.com/blog/how-to-invest-in-mutual-funds
-Growth and income:
+
+Growth and income (Value):
 Growth:
 Aggressive growth:
 International:
